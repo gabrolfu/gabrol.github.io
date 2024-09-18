@@ -15,15 +15,15 @@
 }
 
 .custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */
-    width: 556px;
+    width: 460px; /*556*/
     height: 119px;
     position: absolute;
     left: 101px;
 }
 
 .custom .trigger {
-    width:118px;
-    height:119px;
+    width:69px; /* 118 */
+    height:88px; /* 119 */
     background: url(trigger.svg);
     opacity: 1;
 }
