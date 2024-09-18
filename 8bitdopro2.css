@@ -1,13 +1,13 @@
 .controller.custom{
-    background-image: url(base.svg);
+    background: url(base.svg);
     height: 692px;
     width: 758px;
-    object-fit: fill;
-    /* background-repeat: no-repeat; */
+    /* object-fit: fill;
+    background-repeat: no-repeat; */
 }
 
 .custom.disconnected {
-    background-image: url(disconnected.svg);
+    background: url(disconnected.svg);
 }
 
 .custom.disconnected div {
