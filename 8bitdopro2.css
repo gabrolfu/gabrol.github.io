@@ -2,7 +2,8 @@
     background-image: url(base.svg);
     height: 692px;
     width: 758px;
-    background-repeat: no-repeat;
+    object-fit: fill;
+    /* background-repeat: no-repeat; */
 }
 
 .custom.disconnected {
